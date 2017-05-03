@@ -1,6 +1,8 @@
 # latent-force-models-for-sound
 MATLAB code applying latent force modelling techniques to sinusoidal amplitude data.
 
+http://c4dm.eecs.qmul.ac.uk/audioengineering/latent-force-synthesis/
+
 This code is dependent on the LFM toolbox created by Jouni Hartikeinen and Simo Sarkka: http://becs.aalto.fi/en/research/bayes/lfm/
 
 As input it takes export txt files created by the SPEAR sinusoidal analysis software: http://www.klingbeil.com/spear/
