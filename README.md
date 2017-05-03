@@ -9,9 +9,13 @@ To apply the code to your own recordings you must download SPEAR, open your file
 Use this text file as input to the latent force model.
 
 The main example scripts that can be edited to run on your own code are:
+
 nl_lfmClarinet.m
+
 nl_lfmOboe.m
+
 nl_lfmMetalImpact.m
+
 nl_lfmWoodenImpact.m
 
 All these scripts are the same, but with different initial settings specific to the recording they are analysing.
