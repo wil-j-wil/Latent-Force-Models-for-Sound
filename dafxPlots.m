@@ -463,7 +463,7 @@ i1 = interp;
 
 m = force+1; % which latent force to use
 
-lf = dlmread('latentForce2',',');
+lf = dlmread('drawnLatentForce',',');
 
 %u = model{m}.g; % the latent force, just use this for now, since it's the right length
 u = lf;
