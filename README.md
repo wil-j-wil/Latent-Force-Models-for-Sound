@@ -3,7 +3,7 @@ MATLAB code applying latent force modelling techniques to sinusoidal amplitude d
 
 http://c4dm.eecs.qmul.ac.uk/audioengineering/latent-force-synthesis/
 
-This code is dependent on the LFM toolbox created by Jouni Hartikeinen and Simo Sarkka: http://becs.aalto.fi/en/research/bayes/lfm/
+This code is dependent on the LFM toolbox created by Jouni Hartikainen and Simo Sarkka: http://becs.aalto.fi/en/research/bayes/lfm/
 
 As input it takes export txt files created by the SPEAR sinusoidal analysis software: http://www.klingbeil.com/spear/
 To apply the code to your own recordings you must download SPEAR, open your file in the software, then click file>export and save as a txt file.
