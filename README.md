@@ -1,4 +1,8 @@
 # latent-force-models-for-sound
+
+NOTE: THIS CODE IS NOW OBSOLETE. A MUCH BETTER REPO DOING ALL THIS AND MORE IS NOW AVAILABLE:
+https://github.com/wil-j-wil/audio_lfm
+
 MATLAB code applying latent force modelling techniques to sinusoidal amplitude data.
 
 http://c4dm.eecs.qmul.ac.uk/audioengineering/latent-force-synthesis/
